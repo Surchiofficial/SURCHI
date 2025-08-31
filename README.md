@@ -149,3 +149,63 @@ Reward active community members with airdrops/staking incentives.
 
 Apply for Cronos ecosystem support and exchange listings.
 
+
+
+
+
+# Project Name
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord)]()
+
+---
+
+## Table of Contents
+- [1. Description](#1-description)
+- [2. Contributing](#2-contributing)
+- [3. License](#3-license)
+- [4. Documentation](#4-documentation)
+- [5. Build Full Node](#5-build-full-node)
+- [6. Start a Local Development Network and Node](#6-start-a-local-development-network-and-node)
+- [7. Send Your First Transaction](#7-send-your-first-transaction)
+- [8. Testing](#8-testing)
+- [9. Quick Start](#9-quick-start)
+  - [Install Python](#install-python)
+  - [Set Path](#set-path)
+  - [Install Dependencies](#install-dependencies)
+  - [Run](#run)
+  - [Check Status](#check-status)
+  - [Stop](#stop)
+- [10. Useful Links](#10-useful-links)
+
+---
+
+## 1. Description
+Write what your project does here.
+
+## 2. Contributing
+Steps for contributors.
+
+## 3. License
+Add your license info here.
+
+## 4. Documentation
+Links to docs.
+
+## 5. Build Full Node
+Explain how to build.
+
+## 6. Start a Local Development Network and Node
+Steps for local setup.
+
+## 7. Send Your First Transaction
+Steps to send a transaction.
+
+## 8. Testing
+Instructions for tests.
+
+## 9. Quick Start
+
+### Install Python
+```bash
+sudo apt install python3
