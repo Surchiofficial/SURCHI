@@ -1,211 +1,81 @@
-# SURCHI
-SURCHI is a decentralized utility token built on the Cronos (CRO) blockchain, designed to power digital transactions, community engagement, and future app integrations. As an ERC-20 standard token, SURCHI benefits from Cronos’ speed, scalability, and low transaction fees, making it suitable for both everyday use and long-term adoption.
-Blockchain: Cronos (CRO, EVM-compatible)
+SURCHI
+Table of Contents
+1. Description
 
-Standard: ERC-20
+2. Core Token Details
 
-Token Symbol: SURCHI
+3. Tokenomics
 
-Decimals: 18
-
-Utility: In-app purchases, payments, community rewards, liquidity pools, and DeFi integration
-
-
-SURCHI is created to provide users with a stable, community-driven token that can scale across apps and DeFi platforms. It aims to combine real utility (for example, app purchases or staking) with a strong ecosystem on Cronos, giving holders both functionality and growth potential.
-
-🔹 Token Identity
-
-Name: SURCHI
-
-Symbol: SURCHI
-
-Blockchain: Cronos (CRO)
-
-Standard: ERC-20
-
-Decimals: 18
-
-Supply: [decide: fixed or flexible]
-
-
-🔹 Purpose & Utility
-
-SURCHI is designed to be more than just a digital asset. Its purpose includes:
-
-In-app transactions – payments and purchases inside the Sochi/Surchi app.
-
-Community rewards – incentives for users, contributors, and early supporters.
-
-Liquidity & DeFi integration – staking, farming, and liquidity pools on Cronos DEXes.
-
-Adoption growth – future partnerships and integrations to expand its use.
-
-
-🔹 Principles of Tokenism
-
-Utility-driven – the token must serve an actual function (not just speculation).
-
-Transparency – clear supply rules, visible smart contract, verifiable on Cronos explorer.
-
-Community-focused – encourage adoption and holding through rewards and governance.
-
-Scalability – designed to integrate into DeFi, apps, and exchanges.
-
-SURCHI Token Blueprint
-
-1. Identity
-
-Name: SURCHI
-
-Symbol: SURCHI
-
-Blockchain: Cronos (CRO, EVM-compatible)
-
-Standard: ERC-20
-
-Decimals: 18
-
-Supply: (decide: fixed at 1B, or mintable for flexibility)
-
-
-
----
-
-2. Vision & Mission
-
-Vision: To build a community-powered digital ecosystem where SURCHI is the key to seamless transactions, in-app utilities, and DeFi participation.
-
-Mission: To provide users with a token that combines real-world use cases (app integration, payments) with DeFi opportunities (staking, farming, liquidity).
-
-
-
----
-
-3. Utility
-
-SURCHI is designed for practical use + investment appeal:
-
-In-app payments: used within the Surchi app (subscriptions, features, purchases).
-
-Community rewards: distributed to early adopters, contributors, and loyal holders.
-
-DeFi integration: staking, farming, liquidity pools on Cronos DEXes.
-
-Governance (future): allow holders to vote on project decisions.
-
-
-
----
-
-4. Tokenomics
-
-(Sample, adjust numbers to your vision)
-
-Total Supply: 1,000,000,000 SURCHI
-
-Allocation:
-
-40% Public Presale & Liquidity
-
-20% Ecosystem Growth (partnerships, listings)
-
-20% Team & Development (with vesting/lock)
-
-10% Community Rewards
-
-10% Reserve
-
-
-
-
----
+4. Utility & Use Cases
 
 5. Launch Strategy
 
-1. Deploy token on Cronos blockchain.
-
-
-2. Lock liquidity (via Uncx, Team Finance, etc.) for investor trust.
-
-
-3. Presale/IDO  DxSale.
-
-
-4. List on Cronos DEXes (VVS Finance, MM Finance, Crodex).
-
-
-5. Expand utilities by integrating into Surchi app + DeFi pools.
-
-
-
-
----
-
 6. Community & Growth
 
-Build a presence on Telegram, Discord, Reddit, Twitter (X).
+7. Quick Start
 
-Reward active community members with airdrops/staking incentives.
+8. Documentation
 
-Apply for Cronos ecosystem support and exchange listings.
+1. Description
+SURCHI is a unique, decentralized utility token built on the Binance Smart Chain (BSC). Designed for modern digital transactions, it provides seamless payments, community incentives, and in-app utility within a fast, scalable ecosystem. With a total fixed supply of 1 billion tokens, SURCHI combines real-world use cases with DeFi opportunities, creating a stable, community-driven asset.
 
+2. Core Token Details
+Name: SURCHI
 
+Symbol: SURCHI
 
+Blockchain: Binance Smart Chain (BSC)
 
+Standard: BEP-20
 
-# Project Name
+Decimals: 18
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
-[![Discord](https://img.shields.io/discord/1234567890?label=Discord&logo=discord)]()
+Total Supply: 1,000,000,000
 
----
+3. Tokenomics
+The total supply of 1,000,000,000 SURCHI tokens is allocated as follows:
 
-## Table of Contents
-- [1. Description](#1-description)
-- [2. Contributing](#2-contributing)
-- [3. License](#3-license)
-- [4. Documentation](#4-documentation)
-- [5. Build Full Node](#5-build-full-node)
-- [6. Start a Local Development Network and Node](#6-start-a-local-development-network-and-node)
-- [7. Send Your First Transaction](#7-send-your-first-transaction)
-- [8. Testing](#8-testing)
-- [9. Quick Start](#9-quick-start)
-  - [Install Python](#install-python)
-  - [Set Path](#set-path)
-  - [Install Dependencies](#install-dependencies)
-  - [Run](#run)
-  - [Check Status](#check-status)
-  - [Stop](#stop)
-- [10. Useful Links](#10-useful-links)
+Public Presale: 600,000,000 SURCHI (60%)
 
----
+Liquidity Pool: 300,000,000 SURCHI (30%)
 
-## 1. Description
-Write what your project does here.
+Reserve: 100,000,000 SURCHI (10%)
 
-## 2. Contributing
-Steps for contributors.
+4. Utility & Use Cases
+SURCHI is designed to serve as a functional asset with multiple use cases:
 
-## 3. License
-Add your license info here.
+In-app Payments: Used for purchases, payments, and subscriptions within the SURCHI application.
 
-## 4. Documentation
-Links to docs.
+Community Rewards: Incentives and rewards for active members and contributors.
 
-## 5. Build Full Node
-Explain how to build.
+DeFi Integration: For staking, yield farming, and liquidity pools on BSC-based DEXes.
 
-## 6. Start a Local Development Network and Node
-Steps for local setup.
+5. Launch Strategy
+Deployment: Deploy the SURCHI BEP-20 smart contract on the Binance Smart Chain.
 
-## 7. Send Your First Transaction
-Steps to send a transaction.
+Liquidity Lock: Secure liquidity on a trusted platform to ensure investor confidence.
 
-## 8. Testing
-Instructions for tests.
+Public Presale: Conduct a presale to distribute a portion of the token supply.
 
-## 9. Quick Start
+DEX Listing: List SURCHI on major BSC decentralized exchanges.
 
-### Install Python
-```bash
-sudo apt install python3
+Ecosystem Expansion: Form key partnerships and drive adoption.
+
+6. Community & Growth
+We will build a strong presence on social platforms and reward active community members with airdrops and staking incentives. Our goal is to foster a transparent and community-focused ecosystem.
+
+7. Quick Start
+Install Dependencies
+Instructions on how to install required dependencies.
+
+Run
+Instructions on how to run the project.
+
+Check Status
+Instructions on how to check the status.
+
+Stop
+Instructions on how to stop the project.
+
+8. Documentation
+Links to more detailed documentation.
